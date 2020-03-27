@@ -67,6 +67,8 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
+    "acorn": "^7.1.1",
+    "minimist": "^1.2.5",
     "serialize-javascript": "^2.1.1"
   }
 }
